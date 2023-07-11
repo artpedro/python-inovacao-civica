@@ -1,6 +1,8 @@
 # python-inovacao-civica
 
-Olá! Este é o repositório do curso **Python para inovação cívica**. Aqui você encontrará os materiais complementares das aulas e os notebooks dos desafios.
+Olá! Este é o repositório de fork do curso **Python para inovação cívica**.
+
+As minhas resoluções dos desafios estão presentes nos arquivos de desafio de cada aula. Sinta-se livre para adicionar comentários ou propor soluções mais eficientes para os problemas propostos.
 
 ## Organização do repositório
 
@@ -52,19 +54,19 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 # Semana 0
 
-   - [ ] Aula 0: Apresentação do curso
-   - [ ] Aula 1: Inovação cívica e tecnologia no Brasil
-   - [ ] Aula 3: O maravilhoso mundo das tecnologias abertas
-   - [ ] Aula 4: Git e Github: Primeiros passos
-   - [ ] Aula 5: Introdução ao pensamento computacional
-   - [ ] Aula 6: Benefícios e aplicações práticas do pensamento computacional
-   - [ ] Aula 7: Como aprender linguagem de programação
-   - [ ] Aula 8: Linguagens do curso
-   - [ ] Aula 9: Configurar um ambiente de desenvolvimento local
-   - [ ] Aula 10: Ferramentas para programação em python
-   - [ ] Aula 11: Como funciona a internet
-   - [ ] Aula 12: Introdução a API
-   - [ ] Aula 13: Interagindo com APIs
+   - [x] Aula 0: Apresentação do curso
+   - [x] Aula 1: Inovação cívica e tecnologia no Brasil
+   - [x] Aula 3: O maravilhoso mundo das tecnologias abertas
+   - [x] Aula 4: Git e Github: Primeiros passos
+   - [x] Aula 5: Introdução ao pensamento computacional
+   - [x] Aula 6: Benefícios e aplicações práticas do pensamento computacional
+   - [x] Aula 7: Como aprender linguagem de programação
+   - [x] Aula 8: Linguagens do curso
+   - [x] Aula 9: Configurar um ambiente de desenvolvimento local
+   - [x] Aula 10: Ferramentas para programação em python
+   - [x] Aula 11: Como funciona a internet
+   - [x] Aula 12: Introdução a API
+   - [x] Aula 13: Interagindo com APIs
 
 - **desafio.ipynb**
    - [x] Desafio: Como aprender linguagens de programação
@@ -75,8 +77,8 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 # Semana 1
 
 - **estrutura_controle.ipynb**
-   - [ ] Aula 1: Variáveis e tipos de dados
-   - [ ] Aula 2: Operadores
+   - [x] Aula 1: Variáveis e tipos de dados
+   - [x] Aula 2: Operadores
    - [x] Aula 3: Estrutura de controle
    - [x] Aula 4: Estrutura de repetição
 
@@ -97,12 +99,12 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
    - [x] Aula 8: Introdução a estatística
    - [x] Aula 9: Medidas de tendência central e dispersão
    - [x] Aula 10: Outliers e valores faltantes
-   - [ ] Aula 11: Correlação
+   - [x] Aula 11: Correlação
    - [x] Aula 12: Operações básicas com dados
    - [x] Aula 13: Filter e sort_values
    - [x] Aula 14: Operações com dados e apply
    - [x] Aula 15: Operações com dados e groupby
-   - [ ] Aula 16: Conheça o Perfil Político
+   - [x] Aula 16: Conheça o Perfil Político
 
 - **desafio.ipynb**
    - [x] Desafio
